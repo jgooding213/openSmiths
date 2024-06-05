@@ -18,6 +18,13 @@ In the main Arduino window, open Boards Manager by clicking the left-side board 
 6. Upload to teensy
 
 
+teensy Pin 9, 5V and GND pins to servo
+teensy pin 22 and GND to input
+
+Currently tested using benchtop freq generator, for real use *** THIS INPUT WILL REQUIRE VOLTAGE DIVIDER AND PROTECTION DIODES ***
+
+Tested working to 6000 RPM - > There will likely be some limit with the servos range of motion in this version
+
 
 
 
